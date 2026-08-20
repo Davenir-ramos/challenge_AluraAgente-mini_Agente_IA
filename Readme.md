@@ -90,7 +90,7 @@ A aplicação abrirá automaticamente no navegador em `http://localhost:8501`.
 
 ## 🚀 Deploy
 
-O projeto foi implantado na **Oracle Cloud Infrastructure (OCI)**, em uma instância Compute (Always Free), com a aplicação rodando via Docker e exposta através da porta pública da instância.
+
 
 URL pública: *(adicionar aqui após o deploy)*
 
