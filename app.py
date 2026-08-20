@@ -11,7 +11,7 @@ client = OpenAI(
     api_key=os.getenv("NVIDIA_API_KEY")
 )
 
-st.set_page_config(page_title="Mini Assistente", page_icon="🤖")
+st.set_page_config(page_title="Mini Agente IA", page_icon="🤖")
 st.title("🤖 Mini Assistente de Documentos")
 
 # Guarda o texto extraído do PDF entre interações
